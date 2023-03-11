@@ -2,5 +2,5 @@
 void main(){
     int a=56,b=63
     printf("Hi");
-    printf("%d",a+b);
+    printf("%d",a-b);
 }
